@@ -1,6 +1,6 @@
 # Praktikum 10: PHP OOP (Object Oriented Programming)
 
-**Nama:** Tiara HAyatul Khoir
+**Nama:** Tiara Hayatul Khoir
 
 **NIM:** 312410474
 
