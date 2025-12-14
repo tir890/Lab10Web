@@ -100,7 +100,7 @@ Menampilkan data mahasiswa dalam bentuk tabel yang terintegrasi dengan `layout.p
 
 **Output:** \> 
 
-> *(Screenshot tabel data mahasiswa)*
+> ![read data](https://github.com/tir890/Lab10Web/blob/2bf6f4d5646e31fcde8517c326b0bb624870a710/data-web10.jpeg)
 
 #### D. Create Data (Input Data)
 
