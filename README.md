@@ -65,9 +65,9 @@ $mobil1->gantiWarna("Putih");
 File: `form.php` & `form_input.php`  
 Membuat class `Form` untuk men-generate elemen form HTML secara dinamis, sehingga penulisan form menjadi lebih efisien.
 
-**Output:** \> 
+**Output:** 
 
-> 
+> ![html](https://github.com/tir890/Lab10Web/blob/aea0f7c5c3e9f7e35beced1d9ede07133b7ca6fc/html-form-web10.jpeg)
 -----
 
 ### 3\. Implementasi CRUD dengan OOP
