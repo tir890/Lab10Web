@@ -56,7 +56,7 @@ $mobil1->gantiWarna("Putih");
 
 **Output:** \> 
 
-> *(Ganti dengan screenshot hasil mobil.php)*
+> [mobil]!(https://github.com/tir890/Lab10Web/blob/eb87e5ed77cbc5b87fb691633d281199839fceec/image.png)
 
 -----
 
