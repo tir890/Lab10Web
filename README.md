@@ -116,9 +116,9 @@ Form input data mahasiswa baru.
 File: `edit_mahasiswa.php` & `proses_edit.php`  
 Form untuk mengedit data mahasiswa berdasarkan NIM yang dipilih.
 
-**Output:** \> 
+**Output:**
 
-> *(Screenshot form edit)*
+> ![edit data](https://github.com/tir890/Lab10Web/blob/e597d7916817ddf16cd39077a190c4082f2fd405/edit-web10.jpeg)
 
 -----
 
@@ -135,5 +135,3 @@ Menggunakan **Bootstrap 5** dengan kustomisasi CSS pada `layout.php`.
 ## ✅ Kesimpulan
 
 Praktikum ini berhasil mengimplementasikan konsep OOP pada PHP untuk membangun aplikasi CRUD sederhana yang modular, mudah dikelola, dan memiliki tampilan antarmuka yang modern.
-
-```
