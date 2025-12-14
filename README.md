@@ -67,8 +67,7 @@ Membuat class `Form` untuk men-generate elemen form HTML secara dinamis, sehingg
 
 **Output:** \> 
 
-> ![form input](https://github.com/tir890/Lab10Web/blob/13b52f4de2a930bfb765007556b1da38b2523a92/input-web10.jpeg)
-
+> 
 -----
 
 ### 3\. Implementasi CRUD dengan OOP
@@ -90,9 +89,9 @@ Class ini menangani koneksi ke database dan operasi CRUD.
 File: `dashboard.php`  
 Menampilkan ringkasan jumlah data mahasiswa dengan tampilan Card Bootstrap.
 
-**Output:** \> 
+**Output:**
 
-> *(Screenshot halaman dashboard)*
+> ![dashboard](https://github.com/tir890/Lab10Web/blob/4e4544007dcc3f3cfbd1bcb35eadd34e49b77d6a/dashboard-web10.jpeg)
 
 #### C. Read Data (Menampilkan Data)
 
@@ -110,7 +109,7 @@ Form input data mahasiswa baru.
 
 **Output:** \> 
 
-> *(Screenshot form input)*
+> ![form input](https://github.com/tir890/Lab10Web/blob/13b52f4de2a930bfb765007556b1da38b2523a92/input-web10.jpeg)
 
 #### E. Update Data (Edit Data)
 
