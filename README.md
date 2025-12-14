@@ -67,7 +67,8 @@ Membuat class `Form` untuk men-generate elemen form HTML secara dinamis, sehingg
 
 **Output:** \> 
 
-> *(Ganti dengan screenshot hasil form\_input.php)*
+> ![form input](<img width="1573" height="892" alt="image" src="https://github.com/user-attachments/assets/cc6b7e6d-2d0f-47c6-b27e-f9d4fddd21d2" />
+)
 
 -----
 
