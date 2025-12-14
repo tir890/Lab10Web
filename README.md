@@ -67,8 +67,7 @@ Membuat class `Form` untuk men-generate elemen form HTML secara dinamis, sehingg
 
 **Output:** \> 
 
-> ![form input](<img width="1573" height="892" alt="image" src="https://github.com/user-attachments/assets/cc6b7e6d-2d0f-47c6-b27e-f9d4fddd21d2" />
-)
+> ![form input](https://github.com/tir890/Lab10Web/blob/13b52f4de2a930bfb765007556b1da38b2523a92/input-web10.jpeg)
 
 -----
 
